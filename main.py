@@ -1,0 +1,4 @@
+print("Welcome to our Python project!")
+
+name = input("Enter your name: ")
+print("Hello", name)
